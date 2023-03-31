@@ -29,7 +29,7 @@ The robot will use its AI-powered image recognition software to detect potential
 Monitor the robot's progress and make any necessary adjustments as needed.
 Contributions
 Contributions to this project are welcome and encouraged. If you have any ideas or suggestions for how to improve the night patrolling robot, please feel free to submit a pull request or issue on Github.
-
+     
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
